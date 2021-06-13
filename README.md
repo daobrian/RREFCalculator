@@ -4,3 +4,4 @@ A C++ program that computes the Reduced Row Echelon Form of an (augmented) matri
 # Concepts Used
 - Object-Oriented Programming
 - Class Design
+- Linear Algebra
